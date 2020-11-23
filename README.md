@@ -8,7 +8,9 @@ Jetpack has a lot of libraries, by the time of creating this project, it has 85 
 
 This project will show examples of how to use these libraries.
 
-All the libraries ar listed here:
+Examples will be in alphabetic order with is listed below. Each example will be a submodule and is in a separate branch in git.
+
+All the libraries ar listed here: (names with a * means it's a popular and often-used library)
 
 | Library                                                      | Description                                                  |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
